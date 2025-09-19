@@ -16,9 +16,13 @@ function App() {
     <div className="frame">
       <div className="container">
         <div className="pirata-text">
-          Gracias por el cupcake<br />
-           se te aprecia mucho ;)
+          ¡Gracias por el cupcake!
         </div>
+        <p className="message">
+          Fue un detalle muy lindo, me alegró bastante el día. <br />
+          Se nota cuando las cosas se hacen con buena onda, y eso vale mucho. <br />
+          Gracias por compartirlo ;)
+        </p>
       </div>
     </div>
   );
