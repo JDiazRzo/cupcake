@@ -13,7 +13,7 @@ html, body, #root {
 .frame {
   width: 100%;
   height: 100vh;
-  background: url('/src/assets/Flores1.png') no-repeat center center;
+  background: url('/src/assets/Flores1.webp') no-repeat center center;
   background-size: cover; 
   display: flex;
   justify-content: center;
